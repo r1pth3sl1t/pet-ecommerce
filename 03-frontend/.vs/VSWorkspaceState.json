@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\angular-ecommerce",
+    "\\angular-ecommerce\\src",
+    "\\angular-ecommerce\\src\\app",
+    "\\angular-ecommerce\\src\\app\\components",
+    "\\angular-ecommerce\\src\\app\\components\\product-list",
+    "\\angular-ecommerce\\src\\app\\components\\search",
+    "\\angular-ecommerce\\src\\app\\config",
+    "\\angular-ecommerce\\src\\app\\services"
+  ],
+  "SelectedNode": "\\angular-ecommerce\\src\\main.ts",
+  "PreviewInSolutionExplorer": false
+}
